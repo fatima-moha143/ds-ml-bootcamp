@@ -1,7 +1,7 @@
 # WellMind AI: Lifestyle Category Classification and API Deployment
 
 **Author:** Maryan Mohamed Adam
-**Bootcamp:** Data Science & Machine Learning (DS-ML) Bootcamp
+**Bootcamp:** DS-ML Bootcamp
 **Project:** Final Project — ML Model Development and Deployment
 **Date:** July 2026
 
