@@ -20,7 +20,7 @@ Administrative- Administrative Duration- Informational- Informational Duration- 
 Revenue (Purchase: Yes / No)
 Revenue 0 3885 1 150 Name: count, dtype: int64 Revenue 0 972 1 37 Name: count, dtype: int64
 Installation
-Clone the repository bash git clone (https://github.com/Asmaa-Abdi/online-shopper-intention)r.git Move into the project bash cd online-shopper-predictor Create virtual environment bash python -m venv venv Activate environment Windows bash venv\Scripts\activate Install dependencies bash pip install -r requirements.txt
+Clone the repository bash git clone (https://github.com/Asmaa-Abdi/online-shopper-intention.git) Move into the project bash cd online-shopper-predictor Create virtual environment bash python -m venv venv Activate environment Windows bash venv\Scripts\activate Install dependencies bash pip install -r requirements.txt
 Run FastAPI
 bash uvicorn api.app:app --reload Open: http://127.0.0.1:8000/docs
 Run Frontend
