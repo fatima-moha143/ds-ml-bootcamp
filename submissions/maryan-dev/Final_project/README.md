@@ -8,9 +8,8 @@
  **GitHub** | [https://github.com/maryan-dev/WellMind-AI-prediction-](https://github.com/maryan-dev/WellMind-AI-prediction-) |
 
 ---
-| **Docs** | [project-proposal.md](project-proposal.md) · [project_paper.md](project_paper.md) |
 
----
+
 
 ## Results summary
 
