@@ -5,7 +5,9 @@
 | | |
 |---|---|
 | **Author** | Maryan |
-| **GitHub** | [https://github.com/maryan-dev/WellMind-AI](https://github.com/maryan-dev/WellMind-AI) |
+ **GitHub** | [https://github.com/maryan-dev/WellMind-AI-prediction-](https://github.com/maryan-dev/WellMind-AI-prediction-) |
+
+---
 | **Docs** | [project-proposal.md](project-proposal.md) · [project_paper.md](project_paper.md) |
 
 ---
@@ -228,7 +230,7 @@ Upload to your portal folder (proposal + paper only; **full code stays on GitHub
 | Short README with **this GitHub link** | Recommended |
 
 **GitHub repo URL for graders:**  
-**https://github.com/maryan-dev/WellMind-AI**
+**https://github.com/maryan-dev/WellMind-AI-prediction-**
 
 ---
 
