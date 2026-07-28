@@ -10,7 +10,6 @@
 ---
 
 
-
 ## Results summary
 
 We classify lifestyle wellness on **15,000** sleep/lifestyle records using **10** input features. Five algorithms were trained on the same 80/20 split; **XGBoost** achieved the best **Macro F1 ≈ 0.793** (test accuracy **≈ 0.839**) and is deployed for production **`POST /predict`**. Inference follows **`notebook/4_inference.ipynb`** via **`notebook/inference.py`**. Optional UIs show wellness scores, recommendations, and multi-model comparison.
