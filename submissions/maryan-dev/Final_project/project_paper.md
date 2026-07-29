@@ -4,8 +4,6 @@
 **🎓 Bootcamp:** DS-ML Bootcamp (Goobo Labs)
 **📌 Project:** Final Project — ML Model Development and Deployment
 **📅 Date:** July 2026
-**🔗 Repository:** https://github.com/maryan-dev/WellMind-AI-prediction-
-**🌐 Live App:** https://well-mind-ai-prediction.vercel.app
 
 ---
 
@@ -26,6 +24,11 @@ The problem is a **classification** task suitable for API deployment: given a JS
 ## 📂 3. Dataset and Preprocessing
 
 ### 📊 3.1 Source and Size
+| repo | live app |
+|---|---|
+**🔗 Repository:** https://github.com/maryan-dev/WellMind-AI-prediction-
+**🌐 Live App:** https://well-mind-ai-prediction.vercel.app
+
 
 | Detail | Value |
 |---|---|
