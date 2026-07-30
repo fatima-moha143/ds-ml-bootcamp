@@ -26,7 +26,7 @@ The problem is a **classification** task suitable for API deployment: given a JS
 ### 📊 3.1 Source and Size
 | repo | live app |
 |---|---|
-**🔗 Repository:** https://github.com/maryan-dev/WellMind-AI-prediction-
+**🔗 Repository:** https://github.com/maryan-dev/wellmind-ai-prediction
 **🌐 Live App:** https://well-mind-ai-prediction.vercel.app
 
 
@@ -182,4 +182,3 @@ WellMind AI successfully demonstrates the complete machine learning workflow, fr
 - Scikit-learn Documentation: https://scikit-learn.org/stable/
 - XGBoost Documentation: https://xgboost.readthedocs.io/
 - Course materials: Data Science & Machine Learning (DS-ML) Bootcamp, Goobo Labs
-- Project repository: https://github.com/maryan-dev/WellMind-AI-prediction-
