@@ -6,7 +6,6 @@ A complete Machine Learning capstone for **lifestyle wellness classification** �
 
 WellMind AI analyzes sleep, stress, activity, and related habits, then returns a **lifestyle category**, **wellness score**, and **personalized recommendations** via a REST API.
 
-**Author:** Maryan Mohamed Adam · **Repo:** [https://github.com/maryan-dev/WellMind-AI-prediction-](https://github.com/maryan-dev/WellMind-AI-prediction-) · **Docs:** [project-proposal.md](project-proposal.md) · [project_paper.md](project_paper.md)
 
 ## ✨ Features
 
@@ -138,9 +137,9 @@ py -3 scripts/run_sanity_checks.py
 
 ## 🙏 Acknowledgements
 
-Special thanks to **Goobo Labs** for the DS-ML Bootcamp.  
-https://github.com/goobolabs
+I would like to sincerely thank **Goobo Labs** for providing the Data Science and Machine Learning (DS-ML) Bootcamp. The knowledge, guidance .
 
+GitHub: https://github.com/goobolabs
 ## 👩‍💻 Author
 
 **Maryan Mohamed Adam**
